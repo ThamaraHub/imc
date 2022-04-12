@@ -1,2 +1,2 @@
-# imc
+#  IMC
 Calcule seu imc
